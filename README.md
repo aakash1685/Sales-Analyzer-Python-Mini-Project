@@ -23,21 +23,6 @@ A simple Python-based sales analysis project that reads sales data from a CSV fi
 
 ---
 
-## 📂 Project Structure
-
-```text
-Sales_Analyzer_Python_Mini_Project/
-│── salesAnalyzer.ipynb
-│── sales_data.csv
-│── electricals.csv
-│── furniture.csv
-│── stationary.csv
-│── requirements.txt
-│── .gitignore
-```
-
----
-
 ## 📈 Project Workflow
 
 1. Load sales data from CSV file  
